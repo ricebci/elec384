@@ -6,7 +6,7 @@ Nishal P. Shah
 **Email:** ns157@rice.edu  
 
 **Class hours:** 4:00PM - 5:15PM, Tuesdays and Thursdays  
-**Class location:** TBD  
+**Class location:** Main Campus | Howard Keck Hall | Room 101
 
 ---
 
@@ -48,50 +48,54 @@ Students will:
 
 ## Syllabus Outline (may be modified)
 
-**Weeks 0–2**  
+**Week 1**  
 - Biological origin of neural, muscle, and cardiac signals  
 - Challenges with signal recording/quality  
 
-**Week 3**  
+**Week 2**  
 - Preprocessing: filtering, thresholding, binning, whitening  
 - Debugging recording problems  
 - *Application:* preprocess raw neural signals  
 
-**Week 4**  
+**Week 3**  
 - Signal representation: spectral methods  
 - *Application:* EEG, ECoG, intracranial neural activity, LFP signals  
 
-**Week 5**  
+**Week 4**  
 - Signal representation: point process methods  
 - *Application:* spiking neural activity  
 
-**Week 6**  
+**Week 5**  
 - Supervised methods, encoding models: correlation analysis, tuning curves, GLMs  
 - *Application:* neural encoding in visual system  
 
-**Week 7**  
+**Week 6**  
 - Supervised methods, decoding models: LDA, Naive Bayes, deep learning methods  
 - *Application:* decode hand gestures/typing data from EMG  
 
-**Week 8**  
+**Week 7**  
 - Unsupervised methods: PCA, Factor Analysis  
 - *Application:* dimensionality reduction for neural spike trains  
 
-**Week 9**  
+**Week 8**  
 - Unsupervised methods: Mixture Models, Expectation-Maximization  
 - *Application:* spike sorting for neural and EMG signals  
 
-**Weeks 10–11**  
+**Weeks 9–10**  
 - Unsupervised methods: HMM, State-space models, Kalman filters  
 - *Application:* motor decoding  
 
-**Week 12**  
+**Week 11**  
 - Cross-signal relationships: CCA, representational similarity analysis  
 - *Application:* across neural & EMG / multiple participants / brain regions  
 
-**Weeks 13-14**  
-- Integrative applications: selecting appropriate methods  
-- Case studies:  
+**Week 12-13**
+- Deep learning methods: RNN, TCN, Transformers, Deep SSMs
+- *Application:* Brain computer interface applications with a lot of data. 
+
+**Week 14**  
+- Best practices: selecting appropriate methods  
+- Possible Case studies:  
   - Spike sorting with drifts (Neuropixels)  
   - Intracortical BCI decoding with non-stationarity and limited data  
   - EEG/intracranial decoding with low SNR  

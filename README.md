@@ -10,6 +10,12 @@ Nishal P. Shah
 
 ---
 
+## Announcement
+
+There will be no class on Tuesday, 09/02/2025. Video recordings and slides are shared on Canvas, and you can email course instructor for the materials if needed.
+
+---
+
 ## Summary
 Biomedical signals representing physiological processes help advance scientific understanding of the human body as well as enable translational/therapeutic applications. This course will introduce signal processing and machine learning methods for analyzing biomedical time series.  
 
